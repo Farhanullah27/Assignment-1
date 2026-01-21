@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment
 Ubit // BSCS 1st Semester 
 Programming Fundamentals (JAVA)
-Assignmnt 1
+Assignmnts
